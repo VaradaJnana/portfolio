@@ -1,3 +1,5 @@
+# Work Experince
+
 ## Tata Digital,	Bangalore
 
 Architect, Oct 2021 - PRESENT
@@ -34,7 +36,7 @@ khols.com, liverpool.com.mx(mobile app), mrp.com(mobile app)
 Worked as a full-stack developer for a hybrid mobile application.
 
 
-## TECHNICAL SKILLS
+# TECHNICAL SKILLS
 
 Ptyhon, C#,
 JavaScript, TypeScript, HTML, CSS
@@ -49,14 +51,14 @@ Tableau, Power BI
 Agile, Scrum
 
 
-## AWARDS
+# AWARDS
 3 Act Like Owners awards from Schneider electric
 1 Embrace Differents award from Schneider electric
 3 Star Performer of the quarter from Echidna Software Pvt Ltd
 
 
 
-## EDUCATION
+# EDUCATION
 CMS Business school(Jain University), Bangalore — Working Professional MBA(3 years course)(Sytems and Operations)
 April 2017 - Dec 2020
 MVJ College of Engineering, Bangalore — BE, Computer Science
